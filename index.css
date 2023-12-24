@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    background-image: url("tech");
+    background-size: cover;
+    height: 90vh;
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    margin: 50px;
+}
+
+.card {
+    background-color: rgba(15, 15, 229, 0.894);
+    height: 30vh;
+    width: 25vw;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    text-align: center;
+    
+
+}
+
+.btn {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 5px;
+    margin-right: 50px;
+    font-size: xx-small;
+    background-color: lightgray;
+    border-radius: 25%;
+    padding: 5px;
+    border: none;
+}
+
+.para {
+    margin-top: 9px;
+    font-family: Georgia;
+    font-size: small;
+    margin-left: 10px;
+    margin-right: 9px;
+}
+
+.heading {
+    margin-left: 10px;
+    font-size: large;
+    margin-top: 5px;
+
+}
